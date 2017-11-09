@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Thu, 09 Nov 2017 16:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2017 17:00:01 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,16 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Thursday 9th November 2017</title>
+      <guid isPermaLink="true">https://archive.org/download/2017110RadioXMoylesEditedToby/2017110%20Radio%20X%20Moyles%20Edited%20-%20Toby.mp3</guid>
+      <description>Toby Tarrant Hosts - Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Thu, 09 Nov 2017 16:54:41 GMT</pubDate>
+      <enclosure length="83074402" url="https://archive.org/download/2017110RadioXMoylesEditedToby/2017110%20Radio%20X%20Moyles%20Edited%20-%20Toby.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -207,15 +217,5 @@
       <category>Comedy</category>
       <pubDate>Wed, 18 Oct 2017 17:41:54 GMT</pubDate>
       <enclosure length="129752501" url="https://archive.org/download/20171018RadioXMoylesEdited/20171018%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Tuesday 17th October 2017</title>
-      <guid isPermaLink="true">https://archive.org/download/20171017RadioXMoylesEdited/20171017%20Radio%20X%20Moyles%20Edited.mp3</guid>
-      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Tue, 17 Oct 2017 16:39:28 GMT</pubDate>
-      <enclosure length="130021249" url="https://archive.org/download/20171017RadioXMoylesEdited/20171017%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
