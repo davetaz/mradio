@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Tue, 16 Jan 2018 21:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 21:21:35 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,16 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Wednesday 17th January 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180117RadioXMoylesEdited/20180117%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Wed, 17 Jan 2018 12:59:06 GMT</pubDate>
+      <enclosure length="134924746" url="https://archive.org/download/20180117RadioXMoylesEdited/20180117%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -97,16 +107,6 @@
       <category>Comedy</category>
       <pubDate>Mon, 08 Jan 2018 18:23:20 GMT</pubDate>
       <enclosure length="125960358" url="https://archive.org/download/20180108RadioXMoylesEdited/20180108%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title></title>
-      <guid isPermaLink="true"></guid>
-      <description></description>
-      <category>Comedy</category>
-      <pubDate></pubDate>
-      <enclosure length="" url="" type="audio/mpeg"/>
     </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
