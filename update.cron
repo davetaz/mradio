@@ -1,1 +1,1 @@
-0/20 * * * * /var/www/podcast/update.sh
+0/20 * * * * /home/pi/mradio/update.sh
