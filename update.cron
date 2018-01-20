@@ -1,1 +1,2 @@
-0/20 * * * * /home/pi/mradio/update.sh
+*/20 * * * * /home/pi/mradio/update.sh
+*/2 * * * * /home/pi/mradio/random.sh
