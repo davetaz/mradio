@@ -1,2 +1,2 @@
 */20 * * * * /home/pi/mradio/update.sh
-*/2 * * * * /home/pi/mradio/random.sh
+*/10 * * * * /home/pi/cloudflare/updateCloudflare.sh
