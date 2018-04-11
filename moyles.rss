@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Wed, 11 Apr 2018 17:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 17:40:06 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,16 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Wednesday 11th April 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180411RadioXMoylesEdited/20180411%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Wed, 11 Apr 2018 17:39:20 GMT</pubDate>
+      <enclosure length="125129037" url="https://archive.org/download/20180411RadioXMoylesEdited/20180411%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -207,15 +217,5 @@
       <category>Comedy</category>
       <pubDate>Mon, 19 Mar 2018 18:48:35 GMT</pubDate>
       <enclosure length="102175972" url="https://archive.org/download/20180319RadioXMoylesEdited/20180317%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Friday 16th March 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180316RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20180316%20Radio%20X%20Moyles%20Edited%20Including%20Podcast.mp3</guid>
-      <description>Includes edited podcast. Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Fri, 16 Mar 2018 19:09:40 GMT</pubDate>
-      <enclosure length="134489233" url="https://archive.org/download/20180316RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20180316%20Radio%20X%20Moyles%20Edited%20Including%20Podcast.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
