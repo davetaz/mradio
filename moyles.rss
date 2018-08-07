@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 19:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 19:40:05 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -215,7 +215,7 @@
       <guid isPermaLink="true">https://archive.org/download/20180716RadioXMoylesEdited/20180716%20Radio%20X%20Moyles%20Edited.mp3</guid>
       <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
       <category>Comedy</category>
-      <pubDate></pubDate>
-      <enclosure length="" url="https://archive.org/download/20180716RadioXMoylesEdited/20180716%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Jul 2018 17:33:37 GMT</pubDate>
+      <enclosure length="134915133" url="https://archive.org/download/20180716RadioXMoylesEdited/20180716%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
