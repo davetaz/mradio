@@ -4,7 +4,7 @@ $year = $_GET["year"];
 if (!$year) {
 $year = 2018;
 }
-$page = "http://chrismoyles.net/wiki/index.php/The_Chris_Moyles_Show/Downloads/" . $year;
+$page = "http://chrismoyles.net/wiki/index.php?title=The_Chris_Moyles_Show/Downloads/" . $year;
 
 $content = fopen($page,"r");
 $titles[] = "date";
