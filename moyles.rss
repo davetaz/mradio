@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Thu, 23 Aug 2018 21:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Aug 2018 22:00:02 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,46 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Thursday 23rd August 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180823%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Thu, 23 Aug 2018 19:48:18 GMT</pubDate>
+      <enclosure length="111488939" url="https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180823%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Wednesday 22nd August 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180822%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Thu, 23 Aug 2018 20:21:18 GMT</pubDate>
+      <enclosure length="106992952" url="https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180822%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Tuesday 21st August 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180821%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Thu, 23 Aug 2018 20:53:40 GMT</pubDate>
+      <enclosure length="112897043" url="https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180821%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Monday 20th August 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180820%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Thu, 23 Aug 2018 21:25:33 GMT</pubDate>
+      <enclosure length="108360932" url="https://archive.org/download/20180821RadioXMoylesEditedIncludingPlatinumHour/20180820%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -177,45 +217,5 @@
       <category>Comedy</category>
       <pubDate>Sat, 28 Jul 2018 09:49:21 GMT</pubDate>
       <enclosure length="131072834" url="https://archive.org/download/20180727RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20180725%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Tuesday 24th July 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180724RadioXMoylesEdited/20180724%20Radio%20X%20Moyles%20Edited.mp3</guid>
-      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Tue, 24 Jul 2018 20:16:03 GMT</pubDate>
-      <enclosure length="136938474" url="https://archive.org/download/20180724RadioXMoylesEdited/20180724%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Monday 23rd July 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180723RadioXMoylesEdited/20180723%20Radio%20X%20Moyles%20Edited.mp3</guid>
-      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Mon, 23 Jul 2018 18:18:36 GMT</pubDate>
-      <enclosure length="133054379" url="https://archive.org/download/20180723RadioXMoylesEdited/20180723%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Saturday 21st July 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180721RadioXMoylesEditedSaturdayShow/20180721%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3</guid>
-      <description>Saturday Show. Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Sat, 21 Jul 2018 18:59:01 GMT</pubDate>
-      <enclosure length="76288834" url="https://archive.org/download/20180721RadioXMoylesEditedSaturdayShow/20180721%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Friday 20th July 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180720RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20180720%20Radio%20X%20Moyles%20Edited%20Including%20Podcast.mp3</guid>
-      <description>Includes edited podcast. Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Fri, 20 Jul 2018 19:53:14 GMT</pubDate>
-      <enclosure length="134737083" url="https://archive.org/download/20180720RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20180720%20Radio%20X%20Moyles%20Edited%20Including%20Podcast.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
