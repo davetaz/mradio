@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Wed, 29 Aug 2018 18:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 19:00:02 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,16 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Wednesday 29th August 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180829RadioXMoylesEdited/20180829%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Wed, 29 Aug 2018 18:01:29 GMT</pubDate>
+      <enclosure length="125001141" url="https://archive.org/download/20180829RadioXMoylesEdited/20180829%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -207,15 +217,5 @@
       <category>Comedy</category>
       <pubDate>Mon, 30 Jul 2018 19:42:45 GMT</pubDate>
       <enclosure length="132706637" url="https://archive.org/download/20180730RadioXMoylesEdited/20180730%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Saturday 28th July 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180728RadioXMoylesEditedSaturdayShow/20180728%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3</guid>
-      <description>Saturday Show. Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Sat, 28 Jul 2018 14:29:17 GMT</pubDate>
-      <enclosure length="77457030" url="https://archive.org/download/20180728RadioXMoylesEditedSaturdayShow/20180728%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
