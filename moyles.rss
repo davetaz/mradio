@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 18:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Sep 2018 18:40:02 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,16 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Thursday 20th September 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20180920RadioXMoylesEdited/20180920%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Thu, 20 Sep 2018 18:07:44 GMT</pubDate>
+      <enclosure length="128434258" url="https://archive.org/download/20180920RadioXMoylesEdited/20180920%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -207,15 +217,5 @@
       <category>Comedy</category>
       <pubDate>Wed, 29 Aug 2018 18:01:29 GMT</pubDate>
       <enclosure length="125001141" url="https://archive.org/download/20180829RadioXMoylesEdited/20180829%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Tuesday 28th August 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20180828RadioXMoylesEdited/20180828%20Radio%20X%20Moyles%20Edited.mp3</guid>
-      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Tue, 28 Aug 2018 18:18:06 GMT</pubDate>
-      <enclosure length="134633011" url="https://archive.org/download/20180828RadioXMoylesEdited/20180828%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
