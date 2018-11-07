@@ -7,7 +7,7 @@
     <copyright>© Chris Moyles</copyright>
     <language>en-us</language>
     <pubDate>Sun, 31 Jan 2016 16:49:07 UTC</pubDate>
-    <lastBuildDate>Sun, 04 Nov 2018 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Nov 2018 21:49:25 +0000</lastBuildDate>
     <itunes:category text="Entertainment"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>No</itunes:explicit>
@@ -18,6 +18,36 @@
       <itunes:name>Radio X</itunes:name>
       <itunes:email>http://www.radiox.co.uk</itunes:email>
     </itunes:owner><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Wednesday 7th November 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20181107RadioXMoylesEdited/20181107%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Wed, 07 Nov 2018 18:08:48 GMT</pubDate>
+      <enclosure length="129825226" url="https://archive.org/download/20181107RadioXMoylesEdited/20181107%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Tuesday 6th November 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20181106RadioXMoylesEdited_201811/20181106%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Wed, 07 Nov 2018 17:43:35 GMT</pubDate>
+      <enclosure length="127408168" url="https://archive.org/download/20181106RadioXMoylesEdited_201811/20181106%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
+      <itunes:author>The Chris Moyles Show</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>123:00</itunes:duration>
+      <title>Monday 5th November 2018</title>
+      <guid isPermaLink="true">https://archive.org/download/20181105RadioXMoylesEdited/20181105%20Radio%20X%20Moyles%20Edited.mp3</guid>
+      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
+      <category>Comedy</category>
+      <pubDate>Mon, 05 Nov 2018 19:07:13 GMT</pubDate>
+      <enclosure length="124232932" url="https://archive.org/download/20181105RadioXMoylesEdited/20181105%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
+    </item><item>
       <itunes:author>The Chris Moyles Show</itunes:author>
       <itunes:keywords/>
       <itunes:duration>123:00</itunes:duration>
@@ -187,35 +217,5 @@
       <category>Comedy</category>
       <pubDate>Fri, 12 Oct 2018 21:41:52 GMT</pubDate>
       <enclosure length="137226866" url="https://archive.org/download/20181012RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20181009%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Monday 8th October 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20181008RadioXMoylesEdited/20181008%20Radio%20X%20Moyles%20Edited.mp3</guid>
-      <description>Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Mon, 08 Oct 2018 13:47:45 GMT</pubDate>
-      <enclosure length="135035923" url="https://archive.org/download/20181008RadioXMoylesEdited/20181008%20Radio%20X%20Moyles%20Edited.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Saturday 6th October 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20181006RadioXMoylesEditedSaturdayShow/20181006%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3</guid>
-      <description>Saturday Show. Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Sat, 06 Oct 2018 19:03:48 GMT</pubDate>
-      <enclosure length="87393174" url="https://archive.org/download/20181006RadioXMoylesEditedSaturdayShow/20181006%20Radio%20X%20Moyles%20Edited%20-%20Saturday%20Show.mp3" type="audio/mpeg"/>
-    </item><item>
-      <itunes:author>The Chris Moyles Show</itunes:author>
-      <itunes:keywords/>
-      <itunes:duration>123:00</itunes:duration>
-      <title>Friday 5th October 2018</title>
-      <guid isPermaLink="true">https://archive.org/download/20181005RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20181005%20Radio%20X%20Moyles%20Edited%20Including%20Podcast.mp3</guid>
-      <description>Includes edited podcast. Thanks to neilt0 for the capture and to ianpwilliams for editing</description>
-      <category>Comedy</category>
-      <pubDate>Fri, 05 Oct 2018 19:48:01 GMT</pubDate>
-      <enclosure length="123697109" url="https://archive.org/download/20181005RadioXMoylesEditedIncludingPlatinumHourAndPodcast/20181005%20Radio%20X%20Moyles%20Edited%20Including%20Podcast.mp3" type="audio/mpeg"/>
     </item></channel>
 </rss>
